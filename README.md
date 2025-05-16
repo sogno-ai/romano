@@ -1,4 +1,4 @@
-# ROMANO — The Autonomous MCP Agent
+# ROMANO — The Autonomous AI Agent
 
 **Retrieval Orchestration for MCP Automation, Navigation & Operations**
 
@@ -30,16 +30,5 @@ It executes complex browser and system tasks using structured prompts and real-t
 - Decision-making via prompt injection
 - Scenario playback and scheduling (coming soon)
 - Real-time updates via SSE/WebSocket
-
----
-
-## 🧰 Tech Stack
-
-| Component | Language | Notes |
-|----------|----------|-------|
-| MVP      | Java (Quarkus/langchain4j) | Fast prototyping |
-| Core     | Rust       | Performance, binary deployment |
-| LLM      | Any API / `candle`, `llm` | Modular inference |
-| UI       | CLI / Next.js / TUI        | Optional |
 
 ---
